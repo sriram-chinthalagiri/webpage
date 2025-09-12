@@ -112,13 +112,13 @@ const App = () => {
                 <h3 className="text-xl font-semibold mb-2">SS2025: 𝓓-elliptic sheaves and the Hasse principle</h3>
                 <p className="text-gray-700 italic mb-2">Gave three talks in a learning seminar based on a paper by Arai-Hattori-Kondo-Papikian with same title.</p>
                 <div className="flex flex-wrap gap-4 text-gray-700">
-                  <a href="https://sriram-chinthalagiri.github.io/webpage/public/D_elliptic/Notes_Talk_0-D_ell.pdf" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
+                  <a href="https://sriram-chinthalagiri.github.io/webpage/D_elliptic/Notes_Talk_0-D_ell.pdf" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
                     Overview Talk
                   </a>
-                  <a href="https://sriram-chinthalagiri.github.io/webpage/public/D_elliptic/Notes_Talk_3-D_ell.pdf" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
+                  <a href="https://sriram-chinthalagiri.github.io/webpage/D_elliptic/Notes_Talk_3-D_ell.pdf" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
                     Talk 3
                   </a>
-                  <a href="https://sriram-chinthalagiri.github.io/webpage/public/D_elliptic/Notes_Talk_9-D_ell.pdf" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
+                  <a href="https://sriram-chinthalagiri.github.io/webpage/D_elliptic/Notes_Talk_9-D_ell.pdf" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
                     Talk 9
                   </a>
                 </div>
@@ -128,7 +128,7 @@ const App = () => {
                 <h3 className="text-xl font-semibold mb-2">WS2024-25: Tate resolutions</h3>
                 <p className="text-gray-700 italic mb-2">Below are the notes for a talk covering some commutative algebraic background in a learning seminar on the work of Khare-Iyengar-Manning.</p>
                 <div className="flex flex-wrap gap-4 text-gray-700">
-                  <a href="https://sriram-chinthalagiri.github.io/webpage/public/KMI/Notes_Talk3_IKM.pdf" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
+                  <a href="https://sriram-chinthalagiri.github.io/webpage/KMI/Notes_Talk3_IKM.pdf" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
                     Talk 3
                   </a>
                   
@@ -139,7 +139,7 @@ const App = () => {
                 <h3 className="text-xl font-semibold mb-2">WS2023-24: Rigid mermorphic cocyles</h3>
                 <p className="text-gray-700 italic mb-2">Presented a talk in a learning seminar on rigid mermorphic cocyles after Darmon-Vonk.</p>
                 <div className="flex flex-wrap gap-4 text-gray-700">
-                  <a href="https://sriram-chinthalagiri.github.io/webpage/public/RMC/Notes_Talk 3.pdf" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
+                  <a href="https://sriram-chinthalagiri.github.io/webpage/RMC/Notes_Talk 3.pdf" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
                     Talk 3
                   </a>
                   
@@ -150,7 +150,7 @@ const App = () => {
                 <h3 className="text-xl font-semibold mb-2">(Aug-Nov 2019)Rigid Analytic Geometry</h3>
                 <p className="text-gray-700 italic mb-2">Gave a talk, as part of the final exam, on a proof of rigid analytic GAGA, emulating the argument of Neeman in his excellent book "Algebraic and Analytic Geometry".</p>
                 <div className="flex flex-wrap gap-4 text-gray-700">
-                  <a href="https://sriram-chinthalagiri.github.io/webpage/public/Rigid_GAGA.pdf" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
+                  <a href="https://sriram-chinthalagiri.github.io/webpage/Rigid_GAGA.pdf" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
                     Rigid GAGA
                   </a>
                   
