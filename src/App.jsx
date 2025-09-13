@@ -113,26 +113,6 @@ const App = () => {
                 Quadratic forms
               </a>
             </div>
-            {/* Course 2 */}
-            <div className="bg-gray-700 py-2 px-4 rounded-xl shadow-lg transition-transform hover:scale-105 duration-300 ease-in-out">
-              <div className={`w-12 h-12 flex items-center justify-center rounded-full ${accentColor} mb-4`}>
-                <BookOpen size={24} className="text-white" />
-              </div>
-              <h3 className="text-xl font-bold mb-2">Linear Algebra (Spring 2024)</h3>
-              <p className="text-gray-400">
-                Designed and led discussion sections for a course covering vector spaces, linear transformations, and eigenvalues.
-              </p>
-            </div>
-            {/* Course 3 */}
-            <div className="bg-gray-700 py-2 px-4 rounded-xl shadow-lg transition-transform hover:scale-105 duration-300 ease-in-out">
-              <div className={`w-12 h-12 flex items-center justify-center rounded-full ${accentColor} mb-4`}>
-                <GraduationCap size={24} className="text-white" />
-              </div>
-              <h3 className="text-xl font-bold mb-2">Advanced Analysis (Fall 2024)</h3>
-              <p className="text-gray-400">
-                Served as a teaching assistant, assisting the professor with lecture material and providing extra support to students.
-              </p>
-            </div>
           </div>
         </div>
       </section>
