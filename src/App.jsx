@@ -79,7 +79,7 @@ const App = () => {
                 <h3 className="text-xl font-semibold mb-2">On nearly holomorphic Drinfeld modular forms over admissible coefficient rings</h3>
                 <p className="text-gray-700 italic mb-2">Research in Number Theory</p>
                 <p className="text-gray-700">
-                  <a href="https://link.springer.com/article/10.1007/s40993-025-00666-2?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250909&utm_content=10.1007%2Fs40993-025-00666-2#article-info" target="_blank" rel="noopener noreferrer" className="text-cyan-600 hover:text-cyan-500">
+                  <a href="https://rdcu.be/eFiWu" target="_blank" rel="noopener noreferrer" className="text-cyan-600 hover:text-cyan-500">
                     Article link
                   </a>
                 </p>
@@ -97,6 +97,48 @@ const App = () => {
           </div>
         </div>
       </section>
+
+      {/* Teaching Section */}
+      <section id="teaching" className={`py-20 md:py-32 ${textColor}`}>
+        <div className="container mx-auto px-4">
+          <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">Teaching</h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-5xl mx-auto">
+            {/* Course 1 */}
+            <div className="bg-gray-800 p-8 rounded-xl shadow-lg transition-transform hover:scale-105 duration-300 ease-in-out">
+              <div className={`w-12 h-12 flex items-center justify-center rounded-full ${accentColor} mb-4`}>
+                <BookOpen size={24} className="text-white" />
+              </div>
+              <h3 className="text-xl font-bold mb-2">WS 2023/24</h3>
+              <p className="text-gray-400">
+              <a href="https://typo.iwr.uni-heidelberg.de/groups/arith-geom/members/sriramcv/quadratic-forms.html" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
+                Proseminar on Quadratic forms
+              </a>
+              </p>
+            </div>
+            {/* Course 2 */}
+            <div className="bg-gray-800 p-8 rounded-xl shadow-lg transition-transform hover:scale-105 duration-300 ease-in-out">
+              <div className={`w-12 h-12 flex items-center justify-center rounded-full ${accentColor} mb-4`}>
+                <BookOpen size={24} className="text-white" />
+              </div>
+              <h3 className="text-xl font-bold mb-2">Linear Algebra (Spring 2024)</h3>
+              <p className="text-gray-400">
+                Designed and led discussion sections for a course covering vector spaces, linear transformations, and eigenvalues.
+              </p>
+            </div>
+            {/* Course 3 */}
+            <div className="bg-gray-800 p-8 rounded-xl shadow-lg transition-transform hover:scale-105 duration-300 ease-in-out">
+              <div className={`w-12 h-12 flex items-center justify-center rounded-full ${accentColor} mb-4`}>
+                <GraduationCap size={24} className="text-white" />
+              </div>
+              <h3 className="text-xl font-bold mb-2">Advanced Analysis (Fall 2024)</h3>
+              <p className="text-gray-400">
+                Served as a teaching assistant, assisting the professor with lecture material and providing extra support to students.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
 
       {/* Notes/Slides of Talks Section */}
       <section id="talks" className={`py-20 md:py-32 bg-white/70 backdrop-blur-md text-gray-900`}>
