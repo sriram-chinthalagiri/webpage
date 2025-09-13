@@ -110,7 +110,37 @@ const App = () => {
               </div>
               <h3 className="text-xl font-bold mb-2">WS 2023/24</h3>
               <a href="https://typo.iwr.uni-heidelberg.de/groups/arith-geom/members/sriramcv/quadratic-forms.html" target="_blank" rel="noopener noreferrer" download className="text-cyan-400 hover:text-cyan-300">
-                Quadratic forms
+                Proseminar on Quadratic forms
+              </a>
+            </div>
+            {/* Course 2 */}
+            <div className="bg-gray-200 py-2 px-4 rounded-xl shadow-lg transition-transform hover:scale-105 duration-300 ease-in-out">
+              <div className={`w-12 h-12 flex items-center justify-center rounded-full ${accentColor} mb-4`}>
+                <BookOpen size={24} className="text-white" />
+              </div>
+              <h3 className="text-xl font-bold mb-2">SS 2023</h3>
+              <a href="https://typo.iwr.uni-heidelberg.de/groups/arith-geom/members/sriramcv/p-adic-numbers.html" target="_blank" rel="noopener noreferrer" download className="text-cyan-400 hover:text-cyan-300">
+                Proseminar on p-adic numbers
+              </a>
+            </div>
+            {/* Course 3 */}
+            <div className="bg-gray-200 py-2 px-4 rounded-xl shadow-lg transition-transform hover:scale-105 duration-300 ease-in-out">
+              <div className={`w-12 h-12 flex items-center justify-center rounded-full ${accentColor} mb-4`}>
+                <BookOpen size={24} className="text-white" />
+              </div>
+              <h3 className="text-xl font-bold mb-2">WS 2022/23</h3>
+              <a href="https://typo.iwr.uni-heidelberg.de/groups/arith-geom/members/sriramcv/affine-algebraic-groups.html" target="_blank" rel="noopener noreferrer" download className="text-cyan-400 hover:text-cyan-300">
+                Seminar on affine algebraic groups
+              </a>
+            </div>
+            {/* Course 4 */}
+            <div className="bg-gray-200 py-2 px-4 rounded-xl shadow-lg transition-transform hover:scale-105 duration-300 ease-in-out">
+              <div className={`w-12 h-12 flex items-center justify-center rounded-full ${accentColor} mb-4`}>
+                <BookOpen size={24} className="text-white" />
+              </div>
+              <h3 className="text-xl font-bold mb-2">SS 2022</h3>
+              <a href="https://typo.iwr.uni-heidelberg.de/groups/arith-geom/members/barinder-banwait/prime-numbers-and-cryptography-proseminar.html" target="_blank" rel="noopener noreferrer" download className="text-cyan-400 hover:text-cyan-300">
+                Proseminar on prime numbers and cryptography
               </a>
             </div>
           </div>
