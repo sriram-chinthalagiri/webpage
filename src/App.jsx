@@ -102,7 +102,7 @@ const App = () => {
       <section id="teaching" className={`py-20 md:py-32 ${textColor}`}>
         <div className="container mx-auto px-4">
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">Teaching</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-8 max-w-5xl mx-auto">
+          <div className="grid grid-cols-1 lg:grid-cols-4 xl:grid-cols-5 gap-8 max-w-5xl mx-auto">
             {/* Course 1 */}
             <div className="bg-gray-200 p-4 rounded-xl shadow-lg transition-transform hover:scale-105 duration-300 ease-in-out">
               <div className={`w-12 h-12 flex items-center justify-center rounded-full ${accentColor} mb-4`}>
