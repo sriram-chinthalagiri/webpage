@@ -109,7 +109,7 @@ const App = () => {
                 <BookOpen size={24} className="text-white" />
               </div>
               <h3 className="text-xl font-bold mb-2">WS 2023/24</h3>
-              <a href="https://typo.iwr.uni-heidelberg.de/groups/arith-geom/members/sriramcv/quadratic-forms.html" target="_blank" rel="noopener noreferrer" download className="text-cyan-400 hover:text-cyan-300">
+              <a href="https://typo.iwr.uni-heidelberg.de/groups/arith-geom/members/sriramcv/quadratic-forms.html" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
                 Proseminar on Quadratic forms
               </a>
             </div>
@@ -119,7 +119,7 @@ const App = () => {
                 <BookOpen size={24} className="text-white" />
               </div>
               <h3 className="text-xl font-bold mb-2">SS 2023</h3>
-              <a href="https://typo.iwr.uni-heidelberg.de/groups/arith-geom/members/sriramcv/p-adic-numbers.html" target="_blank" rel="noopener noreferrer" download className="text-cyan-400 hover:text-cyan-300">
+              <a href="https://typo.iwr.uni-heidelberg.de/groups/arith-geom/members/sriramcv/p-adic-numbers.html" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
                 Proseminar on p-adic numbers
               </a>
             </div>
@@ -129,7 +129,7 @@ const App = () => {
                 <BookOpen size={24} className="text-white" />
               </div>
               <h3 className="text-xl font-bold mb-2">WS 2022/23</h3>
-              <a href="https://typo.iwr.uni-heidelberg.de/groups/arith-geom/members/sriramcv/affine-algebraic-groups.html" target="_blank" rel="noopener noreferrer" download className="text-cyan-400 hover:text-cyan-300">
+              <a href="https://typo.iwr.uni-heidelberg.de/groups/arith-geom/members/sriramcv/affine-algebraic-groups.html" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
                 Seminar on affine algebraic groups
               </a>
             </div>
@@ -139,7 +139,7 @@ const App = () => {
                 <BookOpen size={24} className="text-white" />
               </div>
               <h3 className="text-xl font-bold mb-2">SS 2022</h3>
-              <a href="https://typo.iwr.uni-heidelberg.de/groups/arith-geom/members/barinder-banwait/prime-numbers-and-cryptography-proseminar.html" target="_blank" rel="noopener noreferrer" download className="text-cyan-400 hover:text-cyan-300">
+              <a href="https://typo.iwr.uni-heidelberg.de/groups/arith-geom/members/barinder-banwait/prime-numbers-and-cryptography-proseminar.html" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
                 Proseminar on prime numbers and cryptography
               </a>
             </div>
