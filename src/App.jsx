@@ -124,7 +124,7 @@ const App = () => {
               </p>
             </div>
             {/* Course 3 */}
-            <div className="bg-gray-800 p-8 rounded-xl shadow-lg transition-transform hover:scale-105 duration-300 ease-in-out">
+            <div className="bg-gray-800 p-4 rounded-xl shadow-lg transition-transform hover:scale-105 duration-300 ease-in-out">
               <div className={`w-12 h-12 flex items-center justify-center rounded-full ${accentColor} mb-4`}>
                 <GraduationCap size={24} className="text-white" />
               </div>
