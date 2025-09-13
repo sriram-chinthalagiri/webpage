@@ -109,11 +109,9 @@ const App = () => {
                 <BookOpen size={24} className="text-white" />
               </div>
               <h3 className="text-xl font-bold mb-2">WS 2023/24</h3>
-              <p className="text-gray-700">
               <a href="https://typo.iwr.uni-heidelberg.de/groups/arith-geom/members/sriramcv/quadratic-forms.html" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
                 Proseminar on Quadratic forms
               </a>
-              </p>
             </div>
             {/* Course 2 */}
             <div className="bg-gray-200 p-8 rounded-xl shadow-lg transition-transform hover:scale-105 duration-300 ease-in-out">
