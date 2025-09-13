@@ -110,7 +110,7 @@ const App = () => {
               </div>
               <h3 className="text-xl font-bold mb-2">WS 2023/24</h3>
               <a href="https://typo.iwr.uni-heidelberg.de/groups/arith-geom/members/sriramcv/quadratic-forms.html" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
-                Proseminar on Quadratic forms
+                Quadratic forms
               </a>
             </div>
             {/* Course 2 */}
