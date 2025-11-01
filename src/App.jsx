@@ -111,7 +111,7 @@ const App = () => {
               </div>
               <h3 className="text-xl font-bold mb-2">WS 2023/24</h3>
               <a href="https://typo.iwr.uni-heidelberg.de/groups/arith-geom/members/sriramcv/quadratic-forms.html" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
-                Proseminar on Quadratic forms
+                (Co-organizer)Proseminar on Quadratic forms
               </a>
             </div>
             {/* Course 2 */}
@@ -121,7 +121,7 @@ const App = () => {
               </div>
               <h3 className="text-xl font-bold mb-2">SS 2023</h3>
               <a href="https://typo.iwr.uni-heidelberg.de/groups/arith-geom/members/sriramcv/p-adic-numbers.html" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
-                Proseminar on p-adic numbers
+                (Co-organizer)Proseminar on p-adic numbers
               </a>
             </div>
             {/* Course 3 */}
@@ -131,7 +131,7 @@ const App = () => {
               </div>
               <h3 className="text-xl font-bold mb-2">WS 2022/23</h3>
               <a href="https://typo.iwr.uni-heidelberg.de/groups/arith-geom/members/sriramcv/affine-algebraic-groups.html" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
-                Seminar on affine algebraic groups
+                (Co-organizer)Seminar on affine algebraic groups
               </a>
             </div>
             {/* Course 4 */}
@@ -141,7 +141,7 @@ const App = () => {
               </div>
               <h3 className="text-xl font-bold mb-2">SS 2022</h3>
               <a href="https://typo.iwr.uni-heidelberg.de/groups/arith-geom/members/barinder-banwait/prime-numbers-and-cryptography-proseminar.html" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
-                Proseminar on prime numbers and cryptography
+                (Co-organizer)Proseminar on prime numbers and cryptography
               </a>
             </div>
             {/* Course 5 */}
@@ -151,7 +151,7 @@ const App = () => {
               </div>
               <h3 className="text-xl font-bold mb-2">WS 2021/22</h3>
               
-              Étale Cohomology
+              (Teaching Assistant)Lectures on Étale Cohomology by Prof. G. Böckle
               
             </div>
           </div>
