@@ -212,7 +212,11 @@ const App = () => {
                 <p className="text-gray-700 italic mb-2">Gave a talk, as part of the final exam, on a proof of rigid analytic GAGA, emulating the argument of Neeman in his excellent book "Algebraic and Analytic Geometry".</p>
                 <div className="flex flex-wrap gap-4 text-gray-700">
                   <a href="https://sriram-chinthalagiri.github.io/webpage/Rigid_GAGA.pdf" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
+<<<<<<< Updated upstream
                     Rigid GAGA
+=======
+                    Rigid-GAGA
+>>>>>>> Stashed changes
                   </a>
                   
                 </div>
