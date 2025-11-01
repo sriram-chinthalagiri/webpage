@@ -143,6 +143,16 @@ const App = () => {
                 Proseminar on prime numbers and cryptography
               </a>
             </div>
+            {/* Course 5 */}
+            <div className="bg-gray-200 py-2 px-4 rounded-xl shadow-lg transition-transform hover:scale-105 duration-300 ease-in-out">
+              <div className={`w-12 h-12 flex items-center justify-center rounded-full ${accentColor} mb-4`}>
+                <BookOpen size={24} className="text-white" />
+              </div>
+              <h3 className="text-xl font-bold mb-2">WS 2021/22</h3>
+              
+              Étale Cohomology
+              
+            </div>
           </div>
         </div>
       </section>
