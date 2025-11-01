@@ -90,7 +90,7 @@ const App = () => {
                 <p className="text-gray-700 italic mb-2">Submitted as part of requirement of a master's thesis at CMI, India</p>
                 <p className="text-gray-700">
                   <a href="/webpage/public/Msc_thesis.pdf" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
-                    MSc Thesis
+                    Master's Thesis
                   </a>
                 </p>
               </li>
