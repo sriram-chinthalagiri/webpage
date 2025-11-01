@@ -71,7 +71,7 @@ const App = () => {
       {/* Publications Section */}
       <section id="publications" className={`py-20 md:py-32 bg-white/70 backdrop-blur-md text-gray-900`}>
         <div className="container mx-auto px-4">
-          <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">Publications & Preprints</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">Publications</h2>
           <div className="max-w-3xl mx-auto">
             <ul className="space-y-6">
               {/* Publication Item 1 */}
@@ -84,15 +84,7 @@ const App = () => {
                   </a>
                 </p>
               </li>
-              <li className="bg-gray-200 p-6 rounded-xl shadow-lg">
-                <h3 className="text-xl font-semibold mb-2">Derived equivalence and rational points</h3>
-                <p className="text-gray-700 italic mb-2">Submitted as part of requirement of a master's thesis at CMI, India</p>
-                <p className="text-gray-700">
-                  <a href="/webpage/public/Msc_thesis.pdf" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
-                    MSc Thesis
-                  </a>
-                </p>
-              </li>
+  
             </ul>
           </div>
         </div>
@@ -206,7 +198,17 @@ const App = () => {
               </li>
               {/* Talk Item 4*/}
               <li className="bg-gray-200 p-6 rounded-xl shadow-lg">
-                <h3 className="text-xl font-semibold mb-2">(Aug-Nov 2019)Rigid Analytic Geometry</h3>
+                <h3 className="text-xl font-semibold mb-2">Derived equivalence and rational points</h3>
+                <p className="text-gray-700 italic mb-2">Submitted as part of requirement of a master's thesis at CMI, India</p>
+                <p className="text-gray-700">
+                  <a href="/webpage/public/Msc_thesis.pdf" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
+                    MSc Thesis
+                  </a>
+                </p>
+              </li>
+              {/* Talk Item 5*/}
+              <li className="bg-gray-200 p-6 rounded-xl shadow-lg">
+                <h3 className="text-xl font-semibold mb-2">(Aug-Nov 2019)Rigid Analytic Geometry(Lectures by Prof. Pramath Sastry)</h3>
                 <p className="text-gray-700 italic mb-2">Gave a talk, as part of the final exam, on a proof of rigid analytic GAGA, emulating the argument of Neeman in his excellent book "Algebraic and Analytic Geometry".</p>
                 <div className="flex flex-wrap gap-4 text-gray-700">
                   <a href="https://sriram-chinthalagiri.github.io/webpage/Rigid_GAGA.pdf" target="_blank" rel="noopener noreferrer" download className="text-cyan-600 hover:text-cyan-500">
@@ -215,6 +217,7 @@ const App = () => {
                   
                 </div>
               </li>
+              
             </ul>
           </div>
         </div>
