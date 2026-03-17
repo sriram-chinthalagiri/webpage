@@ -80,7 +80,7 @@ const App = () => {
                 <p className="text-gray-700 italic mb-2"> Preprint</p>
                 <p className="text-gray-700">
                   <a href="https://arxiv.org/abs/2603.09754v2" target="_blank" rel="noopener noreferrer" className="text-cyan-600 hover:text-cyan-500">
-                    arxiv:2603.09754
+                    arxiv:2603.09754[math.NT]
                   </a>
                 </p>
               </li>
