@@ -8,8 +8,9 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  // CRITICAL: Replace 'your-repo-name' with the actual name of your GitHub repository
-  // For example, if your URL is github.com/sriram-chinthalagiri/math-portfolio, 
-  // then base should be '/math-portfolio/'
-  base: '/webpage/', 
+  // This is required for GitHub Pages to find your files in the subfolder
+  base: '/math_webpage/', 
+  build: {
+    outDir: 'dist',
+  }
 })
