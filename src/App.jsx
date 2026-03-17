@@ -76,6 +76,16 @@ const App = () => {
             <ul className="space-y-6">
               {/* Publication Item 1 */}
               <li className="bg-gray-200 p-6 rounded-xl shadow-lg">
+                <h3 className="text-xl font-semibold mb-2">The unstable complex in Bruhat-Tits buildings for arithmetic groups over function fields</h3>
+                <p className="text-gray-700 italic mb-2"> Preprint</p>
+                <p className="text-gray-700">
+                  <a href="https://arxiv.org/abs/2603.09754v2" target="_blank" rel="noopener noreferrer" className="text-cyan-600 hover:text-cyan-500">
+                    Article link
+                  </a>
+                </p>
+              </li>
+              {/* Publication Item 2 */}
+              <li className="bg-gray-200 p-6 rounded-xl shadow-lg">
                 <h3 className="text-xl font-semibold mb-2">On nearly holomorphic Drinfeld modular forms over admissible coefficient rings</h3>
                 <p className="text-gray-700 italic mb-2">Research in Number Theory</p>
                 <p className="text-gray-700">
@@ -84,7 +94,7 @@ const App = () => {
                   </a>
                 </p>
               </li>
-              {/* Publication Item 2 */}
+              {/* Publication Item 3 */}
               <li className="bg-gray-200 p-6 rounded-xl shadow-lg">
                 <h3 className="text-xl font-semibold mb-2">Derived equivalence and rational points</h3>
                 <p className="text-gray-700 italic mb-2">Submitted as part of requirement of a master's thesis at CMI, India</p>
