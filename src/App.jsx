@@ -67,7 +67,7 @@ const App = () => {
                 <h3 className="text-xl font-bold mb-2">The unstable complex in Bruhat-Tits buildings for arithmetic groups over function fields</h3>
                 <p className="text-gray-600 italic mb-2">Preprint</p>
                 <a href="https://arxiv.org/abs/2603.09754v2" target="_blank" rel="noopener noreferrer" className="text-cyan-600 font-semibold hover:underline">
-                  arXiv:2603.09754
+                  arXiv:2603.09754[math.NT]
                 </a>
               </li>
               <li className="bg-white p-6 rounded-2xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
