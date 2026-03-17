@@ -9,7 +9,7 @@ export default defineConfig({
     tailwindcss(),
   ],
   // This is required for GitHub Pages to find your files in the subfolder
-  base: '/math_webpage/', 
+  base: '/webpage/', 
   build: {
     outDir: 'dist',
   }
