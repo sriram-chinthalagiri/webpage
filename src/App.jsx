@@ -119,9 +119,30 @@ const App = () => {
               <h3 className="text-xl font-bold mb-2">SS2025: D-elliptic sheaves and the Hasse principle</h3>
               <p className="text-gray-600 mb-4 text-sm">Gave three talks in a learning seminar based on Arai-Hattori-Kondo-Papikian.</p>
               <div className="flex gap-4">
-                <button className="text-cyan-600 font-semibold hover:underline">Overview</button>
-                <button className="text-cyan-600 font-semibold hover:underline">Talk 3</button>
-                <button className="text-cyan-600 font-semibold hover:underline">Talk 9</button>
+                <a
+                  href="/webpage/Delliptic/overview.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-cyan-600 font-semibold hover:underline"
+               >
+                Overview
+               </a>
+               <a
+                 href="/webpage/Delliptic/talk-3.pdf"
+                 target="_blank"
+                 rel="noopener noreferrer"
+                 className="text-cyan-600 font-semibold hover:underline"
+               >
+                Talk 3
+               </a>
+               <a
+                 href="/webpage/Delliptic/talk-9.pdf"
+                 target="_blank"
+                 rel="noopener noreferrer"
+                 className="text-cyan-600 font-semibold hover:underline"
+               >
+                 Talk 9
+               </a>
               </div>
             </div>
           </div>
