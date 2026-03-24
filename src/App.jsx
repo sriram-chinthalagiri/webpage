@@ -80,7 +80,11 @@ const App = () => {
               <li className="bg-white p-6 rounded-2xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
                 <h3 className="text-xl font-bold mb-2">Derived equivalence and rational points</h3>
                 <p className="text-gray-600 italic mb-2">MSc Thesis, CMI India</p>
-                <a href="#" className="text-cyan-600 font-semibold hover:underline">
+                <a 
+                  href="/webpage/masters_thesis.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-cyan-600 font-semibold hover:underline">
                   Master's Thesis
                 </a>
               </li>
