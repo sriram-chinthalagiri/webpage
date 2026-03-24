@@ -85,7 +85,7 @@ const App = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-cyan-600 font-semibold hover:underline">
-                  Master's Thesis
+                Master's Thesis
                 </a>
               </li>
             </ul>
