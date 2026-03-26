@@ -118,6 +118,10 @@ const App = () => {
       <section id="talks" className="py-20 md:py-32 bg-white text-gray-900">
         <div className="container mx-auto px-4">
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">Notes & Slides</h2>
+          <p className="text-lg text-center text-gray-700 max-w-2xl mx-auto mb-12">
+            A collection of handwritten notes/slides from talks, I gave in research seminars and courses in my department during PhD/MSc.
+          </p>
+
           <div className="max-w-3xl mx-auto space-y-6">
             <div className="bg-gray-50 p-6 rounded-2xl border border-gray-100">
               <h3 className="text-xl font-bold mb-2">SS2025: D-elliptic sheaves and the Hasse principle</h3>
