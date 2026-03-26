@@ -197,11 +197,6 @@ const App = () => {
           <p className="text-lg text-gray-600 mb-8">
             first_name.chinthalagiri@iwr.uni-heidelberg.de
           </p>
-          <div className="flex justify-center space-x-6">
-            <Mail className="text-cyan-500 cursor-pointer" />
-            <Github className="text-gray-700 cursor-pointer" />
-            <Linkedin className="text-blue-600 cursor-pointer" />
-          </div>
         </div>
       </section>
 
