@@ -50,9 +50,9 @@ const App = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-lg md:text-xl leading-relaxed">
             <p className="mb-4 text-gray-700">
-              I am a 4th-year PhD candidate in the Department of Mathematics at Ruprecht Karls Institute, Universität Heidelberg, specializing in Function Field Arithmetic. 
+              I am a PhD candidate in the Department of Mathematics at Ruprecht Karls Universität Heidelberg, specializing in Function Field Arithmetic. 
               In particular, I am interested in studying the action of arithmetic subgroups on suitable geometric objects like the Bruhat-Tits building or the Drinfeld period domain and 
-              its consequences on objects of arithmetic interest like the harmonic cochains on the building or the modular forms (and its variants) on the Drinfeld period domain.
+              its consequences on objects of arithmetic interest like the harmonic cocycles on the building or the modular forms (and its variants) on the Drinfeld period domain.
             </p>
           </div>
         </div>
