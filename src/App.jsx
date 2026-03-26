@@ -154,6 +154,23 @@ const App = () => {
               </div>
             </div>
           </div>
+          <div className="max-w-3xl mx-auto space-y-6">
+            <div className="bg-gray-50 p-6 rounded-2xl border border-gray-100">
+              <h3 className="text-xl font-bold mb-2">WS2024-25: Tate resolutions</h3>
+              <p className="text-gray-600 mb-4 text-sm">Below are the notes for a talk covering some commutative algebraic background in a learning seminar on the work of Khare-Iyengar-Manning.</p>
+              <div className="flex gap-4">
+                <a
+                  href="/webpage/Notes_Talk3_IKM.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-cyan-600 font-semibold hover:underline"
+               >
+                Talk 3
+               </a>
+               
+              </div>
+            </div>
+          </div>
         </div>
       </section>
 
